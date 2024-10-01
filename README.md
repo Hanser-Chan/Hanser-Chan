@@ -1,6 +1,6 @@
-## Hi there 👋
+## 大家好 👋
 
-![Mail Badge](https://img.shields.io/badge/memechs33%40outlook.com-1?style=flat&logo=Gmail&logoColor=%23fff&label=mail&link=mailto%3Amemechs33%40outlook.com)](mailto:memechs33@outlook.com)
+![Mail Badge](https://img.shields.io/badge/memechs33%40outlook.com-1?style=flat&logo=Gmail&logoColor=%23fff&label=mail&link=mailto%3Amemechs33%40outlook.com)
 
 
 ---
