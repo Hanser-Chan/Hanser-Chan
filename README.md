@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:memechs33@outlook.com)
+
 <!--
 **Hanser-Chan/Hanser-Chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
