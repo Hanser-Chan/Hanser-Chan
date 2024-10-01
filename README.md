@@ -4,7 +4,7 @@
 
 
 ---
-<img align="right" alt="jpg" src="https://s2.loli.net/2024/10/01/IVJAZdP5nby4oxQ.jpg" />
+<img align="right" alt="gif" src="https://s2.loli.net/2024/10/01/DJwv2ufj35ZdKBR.gif" />
 
 
 ### I'm Hanser Chan
