@@ -21,11 +21,11 @@
 
 ### 🛠 技术栈 | Tech Stack
 
-- 💻 &#160; ![C++](https://img.shields.io/badge/C%2B%2B-1?style=plastic&logo=%2300599C&logoColor=%234287f5&color=%23404040)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
+- 💻 &#160; ![C++](https://img.shields.io/badge/C%2B%2B-1?style=plastic&logo=cplusplus&logoColor=%2300599C&logoSize=auto&color=%23404040)
+![PyThon](https://img.shields.io/badge/Python-1?style=plastic&logo=python&logoColor=%233776AB&logoSize=auto&color=%23404040)
 ![Swift](https://img.shields.io/badge/Swift-1?style=plastic&logo=swift&logoColor=%23fff&logoSize=auto&color=%23404040)
-- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![Django](https://img.shields.io/badge/Django-1?style=plastic&logo=django&logoColor=%2300fc08&logoSize=auto&color=%23404040)
+- 🕹 &#160; ![Mac](https://img.shields.io/badge/Mac-1?style=plastic&logo=apple&logoColor=%23fff&logoSize=auto&color=%23404040)
+![Linux](https://img.shields.io/badge/Linux-1?style=plastic&logo=linux&logoColor=%23FCC624&logoSize=auto&color=%23404040)
 - 💾 &#160;![PyTorch](https://img.shields.io/badge/Pytorch-1?style=plastic&logo=Pytorch&logoColor=%23fc6900&logoSize=auto&color=%23404040)
 ![Cuda](https://img.shields.io/badge/Cuda-1?style=plastic&logo=nvidia&logoColor=%2376B900&logoSize=auto&color=%23404040)
 ![SpringBoot](https://img.shields.io/badge/Spring-1?style=plastic&logo=spring&logoColor=%2300ff04&logoSize=auto&color=%23404040)
