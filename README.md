@@ -9,15 +9,16 @@
 
 ### I'm Hanser Chan
 
-- A Computer Science Undergraduate Student. & Open Source enthusiast.
-- 计算机本科生 & 开源爱好者
+- 📜 A Computer Science Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently studying in NanJing, China.
-- 现在南京
 - 💬 Ask me about C++, PyThon and my projects on [memechs33@outlook.com](mailto:memechs33@outlook.com)
-- 💬 对于C++，Python 和 我的项目问题, 随时提 issue 或 邮箱联系我[memechs33@outlook.com](mailto:memechs33@outlook.com)
 - ⭐ You may like [XiaoMi Camp](https://github.com/Hanser-Chan/MI_HW) 、[My Blog](https://hanser-chan.github.io/) 、or [emoji_predict](https://github.com/Hanser-Chan/emo_predict)
-- 你可能喜欢：[小米训练营](https://github.com/Hanser-Chan/MI_HW) 、[我的博客](https://hanser-chan.github.io/) 、or [表情预测](https://github.com/Hanser-Chan/emo_predict)
 - ⚡ Fun fact: Data Analysis📊
+
+- 📜 计算机本科生 & 开源爱好者
+- 🌱 现在南京
+- 💬 对于C++，Python 和 我的项目问题, 随时提 issue 或 邮箱联系我[memechs33@outlook.com](mailto:memechs33@outlook.com)
+- ⭐ 你可能喜欢：[小米训练营](https://github.com/Hanser-Chan/MI_HW) 、[我的博客](https://hanser-chan.github.io/) 、or [表情预测](https://github.com/Hanser-Chan/emo_predict)
 
 ### 🛠 技术栈 | Tech Stack
 
